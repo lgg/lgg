@@ -25,6 +25,7 @@
 | **[Awesome KeePass](https://github.com/lgg/awesome-keepass)** | KeePass clients, plugins, libraries, and related resources. |
 | **[Awesome AirPlay](https://github.com/lgg/awesome-airplay)** | AirPlay senders, receivers, bridges, protocol tools, and compatibility information. |
 | **[Awesome iOS Sideloading](https://github.com/lgg/awesome-ios-sideloading)** | iOS/iPadOS sideloading, IPA installers, signing tools, and alternative app stores. |
+| **[Awesome VPN](https://github.com/lgg/awesome-vpn)** | VPN clients and servers, proxy tools, management panels, DPI bypass, diagnostics, guides, and communities. |
 | **[Awesome Genealogy](https://github.com/lgg/awesome-genealogy)** | Software and resources for genealogy and family-history research. |
 | **[Android Power User Toolkit](https://github.com/lgg/android-power-user-toolkit)** | Android apps, fixes, workarounds, and practical step-by-step guides. |
 
