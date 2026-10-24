@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://t.me/f_contact_bot">Contact via Telegram</a>
+</p>
+
+<p align="center">
   <a href="#curated-collections">Collections</a> ·
   <a href="#apps--widgets">Apps & Widgets</a> ·
   <a href="#tools--references">Tools</a> ·
@@ -57,8 +61,3 @@ Updated forks of external projects, with links to their upstream repositories.
 | **HomeRun** — GitHub Actions self-hosted runner manager | [lgg/homerun](https://github.com/lgg/homerun) | [aGallea/homerun](https://github.com/aGallea/homerun) |
 | **Antigravity for OpenCode** — integration for delegating scoped tasks to the Antigravity CLI | [lgg/antigravity-for-opencode](https://github.com/lgg/antigravity-for-opencode) | [chigarow/antigravity-for-opencode](https://github.com/chigarow/antigravity-for-opencode) |
 
----
-
-<p align="center">
-  <strong>Contact:</strong> <a href="https://t.me/f_contact_bot">Telegram bot</a>
-</p>
