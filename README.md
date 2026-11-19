@@ -33,12 +33,11 @@
 
 | Project | What it does |
 | :--- | :--- |
+| **[Leaf](https://github.com/lgg/leaf)** | Distraction-free Markdown editor with multiple documents, themes, autosave, and local draft recovery. [Open online editor](https://lgg.github.io/leaf/editor.html). |
 | **[Start Tab](https://github.com/lgg/start-tab-chromium)** | Customizable new-tab dashboard and website blocker for Chromium-based browsers. |
 | **[Music Desktop Widget](https://github.com/lgg/music-desktop-widget)** | Customizable music widget with playback controls for Windows, macOS, and Linux. |
 | **[v2rayN Widget](https://github.com/lgg/v2rayn-widget)** | Windows mini-dashboard for v2rayN TUN status, quick toggling, and connection checks. |
 | **[Days of Your Life](https://github.com/lgg/days-of-your-life)** | A simple visualization of the days in a lifetime. |
-| **[Leaf](https://github.com/lgg/leaf)** | Distraction-free Markdown editor with multiple documents, themes, autosave, and local draft recovery. [Open online editor](https://lgg.github.io/leaf/editor.html). |
-| **[Chronotif](https://github.com/lgg/chronotif)** | Android notification panel with newest-first updates, New/Earlier grouping, and an optional lock-screen view. |
 
 ## Tools & references
 
@@ -63,4 +62,5 @@ Updated forks of external projects, with links to their upstream repositories.
 | :--- | :--- | :--- |
 | **HomeRun** — GitHub Actions self-hosted runner manager | [lgg/homerun](https://github.com/lgg/homerun) | [aGallea/homerun](https://github.com/aGallea/homerun) |
 | **Antigravity for OpenCode** — integration for delegating scoped tasks to the Antigravity CLI | [lgg/antigravity-for-opencode](https://github.com/lgg/antigravity-for-opencode) | [chigarow/antigravity-for-opencode](https://github.com/chigarow/antigravity-for-opencode) |
+| **Chronotif** — Android notification panel with New/Earlier grouping and an optional lock-screen view | [lgg/chronotif](https://github.com/lgg/chronotif) | [nagarete/chronotif](https://github.com/nagarete/chronotif) |
 
