@@ -61,7 +61,7 @@ Updated forks of external projects, with links to their upstream repositories.
 | Project | My fork | Original project |
 | :--- | :--- | :--- |
 | **HomeRun** — GitHub Actions self-hosted runner manager | [lgg/homerun](https://github.com/lgg/homerun) | [aGallea/homerun](https://github.com/aGallea/homerun) |
-| **Leaf** — cross-platform Markdown editor: Windows portable ZIP and Setup EXE; macOS and Linux desktop package workflows (releases pending); [online editor](https://lgg.github.io/leaf/editor.html) and installable PWA for mobile | [lgg/leaf](https://github.com/lgg/leaf) | [uncle-jasper/leaf](https://github.com/uncle-jasper/leaf) |
+| **Leaf** — cross-platform Markdown editor: Windows portable ZIP and Setup EXE, macOS and Linux desktop packages, [online editor](https://lgg.github.io/leaf/editor.html), and installable mobile PWA | [lgg/leaf](https://github.com/lgg/leaf) | [uncle-jasper/leaf](https://github.com/uncle-jasper/leaf) |
 | **Chronotif** — Android notification panel with New/Earlier grouping and an optional lock-screen view | [lgg/chronotif](https://github.com/lgg/chronotif) | [nagarete/chronotif](https://github.com/nagarete/chronotif) |
 | **Flow Launcher Liquid Glass** — translucent glass effect for Flow Launcher | [lgg/Flow.Launcher.Plugin.LiquidGlass](https://github.com/lgg/Flow.Launcher.Plugin.LiquidGlass) | [NblScript/Flow.Launcher.Plugin.LiquidGlass](https://github.com/NblScript/Flow.Launcher.Plugin.LiquidGlass) |
 | **AnyVideo Downloader for Flow Launcher** — video downloader powered by yt-dlp | [lgg/AnyVideo-Downloader-Flow-Plugin](https://github.com/lgg/AnyVideo-Downloader-Flow-Plugin) | [z1nc0r3/AnyVideo-Downloader-Flow-Plugin](https://github.com/z1nc0r3/AnyVideo-Downloader-Flow-Plugin) |
